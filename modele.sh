@@ -34,4 +34,5 @@ echo "VERSION="0.0.1"; # <release>.<major change>.<minor change>" >> $1
 echo "PROGRAMME="APPLICATION NAME";" >> $1
 echo "AUTHOR="DELVILLE Thibaut";" >> $1
 
-# Déclaration des variables
+
+chmod +x $1

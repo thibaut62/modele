@@ -9,8 +9,8 @@
 # Utilisation :                                                           #
 # Le script prend en argument le nom du fichier a créer.                  #
 # Exemple :                                                               #
-#           - ./patron.sh test.sh (dans le dossier du scripts)            #
-#           - ./patron.sh /home/USER/file.sh (avec un chemin particulier) #
+#           - ./modele.sh test.sh (dans le dossier du scripts)            #
+#           - ./modele.sh /home/USER/file.sh (avec un chemin particulier) #
 #                                                                         #
 ###########################################################################
 
